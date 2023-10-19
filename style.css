@@ -1,0 +1,47 @@
+body{
+
+   background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzCTKNNz9YRywYf46lEscifUzkYxYmkZm2Kw&usqp=CAU);
+    margin: 0;
+
+  
+}
+
+
+.cabecalho{
+
+    background-color:rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 7%, rgba(108,208,223,1) 16%, rgba(203,83,189,1) 35%, rgba(53,174,217,1) 57%, rgba(193,25,194,1) 83%, rgba(242,0,0,1) 100%);
+    text-align: center;
+    padding: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+
+
+    text-shadow: 4px 4px rgb(255, 255, 255);
+
+}
+
+.principal{
+
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.felicidade{
+    width: 1000px;
+    border-radius: 50%;
+}
+
+.rodape{
+    background-color: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 7%, rgba(108,208,223,1) 16%, rgba(203,83,189,1) 35%, rgba(53,174,217,1) 57%, rgba(193,25,194,1) 83%, rgba(242,0,0,1) 100%);
+    text-align: center;
+    padding: 50px;
+    color: white;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-around;
+
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
